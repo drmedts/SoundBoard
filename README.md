@@ -1,6 +1,6 @@
 # SoundBoard
 
-Kleines, schnelles Privatprojekt: eine macOS-Soundboard-App im Design eines Doppelmayr-Seilbahn-Bedienpults ("AS-P"). Runde beleuchtete Industrie-Taster, Status-LEDs, roter Not-Halt-Taster — Buttons spielen zugewiesene Sounddateien ab, erneuter Klick stoppt die Wiedergabe.
+Kleines, schnelles Privatprojekt: eine macOS-Soundboard-App im Design eines Doppelmayr-Seilbahn-Bedienpults. Runde beleuchtete Industrie-Taster, Status-LEDs, roter Not-Halt-Taster — Buttons spielen zugewiesene Sounddateien ab, erneuter Klick stoppt die Wiedergabe.
 
 > Kein offizielles Doppelmayr-Produkt und nicht von Doppelmayr Seilbahnen GmbH autorisiert oder damit verbunden — die Optik ist rein privat von Fotos eines echten Bedienpults inspiriert.
 
